@@ -1,12 +1,18 @@
 ## Hi there 👋
 
 <!--타이틀 부분-->
+  <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=gilmeee&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<!--내용 부분-->
-<h3 align="center">💻 I have used 💻</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmeee&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+</div>
+
+<!--<h3 align="center">💻 I have used 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -25,9 +31,8 @@
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 <br>
+-->
 
-
-<h3 align="center">🛠 I also use 🛠</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -42,14 +47,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
 
-<br>
-
-<h3 align="center">📜 I have certifications in 📜</h3>
+<h3 align="center">📜 Certifications 📜</h3>
 <div align="center">
   <p>ADsP (2024.09)</p>
   <p>SQLD (2024.09)</p>
