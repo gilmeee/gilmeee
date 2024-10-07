@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align="center">📜 Certification 📜</h3>
+<h3 align="center">📜 I have certifications in 📜</h3>
 <div align="center">
   <p>ADsP (2024.09)</p>
   <p>SQLD (2024.09)</p>
