@@ -42,10 +42,3 @@
 </div>
 
 <br>
-
-
-<h3 align="center">I've got</h3>
-<div align="center">
-  <p>ADsP (2024.09)</p>
-  <p>SQLD (2024.09)</p>
-</div>
